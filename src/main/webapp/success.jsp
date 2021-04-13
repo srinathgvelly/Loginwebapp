@@ -7,7 +7,7 @@ Please enter correct username and password<br/>
 <%} else {
 %>
 <center>Welcome aboard <%=session.getAttribute("userid")%>
-<h3>DevOps work Flow - V1.7 </h3>
+<h3>DevOps work Flow - V1.8 </h3>
 <h4>Happy Learning!</h4>
 </center>
 
